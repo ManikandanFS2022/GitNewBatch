@@ -3,7 +3,7 @@ package sample.org;
 public class StudentDetails {
 
 	public void studentName() {
-System.out.println("Enter student name: Manikandan");
+System.out.println("Enter student name: Yathrik");
 
 	}
 
